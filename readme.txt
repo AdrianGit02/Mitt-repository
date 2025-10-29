@@ -1,1 +1,1 @@
-Mitt f�rsta Git-projekt
+Detta är ett repository för att testa git, github och visual studio code
